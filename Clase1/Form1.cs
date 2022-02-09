@@ -16,5 +16,10 @@ namespace Clase1
         {
             InitializeComponent();
         }
+
+        private void verToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
