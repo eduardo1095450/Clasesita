@@ -1,6 +1,6 @@
 ﻿namespace Clase1
 {
-    partial class Form1
+    partial class Inicio
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Inicio));
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.registrar = new System.Windows.Forms.Button();
             this.registro = new System.Windows.Forms.Label();

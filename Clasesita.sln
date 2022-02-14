@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segundo", "Segundo\Segundo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{113440B4-4D66-47AE-8C10-2113815BE72D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1", "Clase1\Clase1.csproj", "{4E249A85-48C4-4265-8670-499B9BA79B99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase", "Clase1\Clase.csproj", "{4E249A85-48C4-4265-8670-499B9BA79B99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

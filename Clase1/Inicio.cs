@@ -10,16 +10,18 @@ using System.Windows.Forms;
 
 namespace Clase1
 {
-    public partial class Form1 : Form
+    public partial class Inicio : Form
     {
-        public Form1()
+        public Inicio()
         {
             InitializeComponent();
         }
 
         private void verToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Persona persona = new Persona();
+            persona.Show();
+            this.Close();
         }
     }
 }
